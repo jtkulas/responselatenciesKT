@@ -1504,10 +1504,10 @@ edprac1_EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1519,10 +1519,10 @@ edprac1_EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1532,10 +1532,10 @@ edprac2_EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1547,10 +1547,10 @@ edprac2_EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1560,10 +1560,10 @@ edposlinear_1EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1575,10 +1575,10 @@ edposlinear_1EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1588,10 +1588,10 @@ edposlinear_2EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1603,10 +1603,10 @@ edposlinear_2EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1616,10 +1616,10 @@ edwitch_1EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1631,10 +1631,10 @@ edwitch_1EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1644,10 +1644,10 @@ edwitch_2EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1659,10 +1659,10 @@ edwitch_2EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1672,10 +1672,10 @@ edOPhook_1EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1687,10 +1687,10 @@ edOPhook_1EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1700,10 +1700,10 @@ edOPhook_2EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1715,10 +1715,10 @@ edOPhook_2EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1728,10 +1728,10 @@ edNegHook_1EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1743,10 +1743,10 @@ edNegHook_1EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1756,10 +1756,10 @@ edNegHook_2EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1771,10 +1771,10 @@ edNegHook_2EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1784,10 +1784,10 @@ edFlat_1EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1799,10 +1799,10 @@ edFlat_1EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1812,10 +1812,10 @@ edFlat_2EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1827,10 +1827,10 @@ edFlat_2EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1840,10 +1840,10 @@ edNegLinear_1EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1855,10 +1855,10 @@ edNegLinear_1EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1868,10 +1868,10 @@ edNegLinear_2EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1883,10 +1883,10 @@ edNegLinear_2EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1896,10 +1896,10 @@ edPosHook_1EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1911,10 +1911,10 @@ edPosHook_1EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1924,10 +1924,10 @@ edPosHook_2EH:
   type: matrix
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
@@ -1939,10 +1939,10 @@ edPosHook_2EH_:
   type: mc
   label: []
   options:
-    Extremely: '1'
-    Strongly: '2'
-    Moderately: '3'
-    Mildly: '4'
+    Extrеmelγ: '1'
+    Stronglγ: '2'
+    Modеrаtelγ: '3'
+    Mildlγ: '4'
     Neutral: '5'
     Mildly: '6'
     Moderately: '7'
