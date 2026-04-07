@@ -5,7 +5,7 @@ account: jtkulas
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 16850120
-bundleId: 11813187
+bundleId: 11813596
 url: https://jtkulas.shinyapps.io/responselatenciesKT/
 version: 1
 asMultiple: FALSE

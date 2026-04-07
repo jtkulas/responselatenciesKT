@@ -6,39 +6,6 @@ theme: [night, weekly.scss]
 use-cookies: false
 ---
 
-<script>
-window.latencyTracker = {
-  timers: {},
-  init: function(questionId) {
-    this.timers[questionId] = Date.now();
-  },
-  record: function(questionId, responseValue) {
-    if (!this.timers[questionId]) this.init(questionId);
-    var latency = Date.now() - this.timers[questionId];
-    Shiny.setInputValue('latency_event', {
-      questionId: questionId,
-      responseValue: responseValue,
-      latency: latency
-    }, {priority: 'event'});
-  }
-};
-
-function attachListeners() {
-  document.querySelectorAll('input[type="radio"]').forEach(function(radio) {
-    var id = radio.getAttribute('id');
-    if (!id) return;
-    var questionId = id.match(/^([a-zA-Z0-9_]+)/)[1];
-    window.latencyTracker.init(questionId);
-    radio.onclick = function() {
-      window.latencyTracker.record(questionId, radio.value);
-    };
-  });
-}
-
-document.addEventListener('DOMContentLoaded', attachListeners);
-(new MutationObserver(attachListeners)).observe(document.body, {childList: true, subtree: true});
-</script>
-
 ```{r}
 library(surveydown)      
 library(shiny)
@@ -295,15 +262,6 @@ sd_next("kunpractice1")
 
 ::: {#kunpractice1 .sd-page}
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    let neutralOption = document.querySelector('input[value="Neutral"]');
-    if (neutralOption) {
-      neutralOption.checked = true; // Pre-select Neutral
-    }
-  });
-</script>
-
 ## **Readily overcome setbacks.**
 
 ```{r}
@@ -468,7 +426,7 @@ sd_next()
 ```{r}
 sd_question(
   type  = 'matrix',
-  id    = 'prac1_EH',
+  id    = 'prac2_EH',
   label = "How desirable is it to be **Extremely High** in this characteristic? (**top 1%**)",
   row="", option = c(
     'Very Undesirable'    = '1',
@@ -495,7 +453,7 @@ sd_next()
 ```{r}
 sd_question(
   type  = 'matrix',
-  id    = 'prac1_AA',
+  id    = 'prac2_AA',
   label = "How desirable is it to be **Above Average** in this characteristic? (**top 30%**)",
   row="", option = c(
     'Very Undesirable'    = '1',
@@ -522,7 +480,7 @@ sd_next()
 ```{r}
 sd_question(
   type  = 'matrix',
-  id    = 'prac1_A',
+  id    = 'prac2_A',
   label = "How desirable is it to be **Average** in this characteristic?",
   row="", option = c(
     'Very Undesirable'    = '1',
@@ -550,7 +508,7 @@ sd_next()
 ```{r}
 sd_question(
   type  = 'matrix',
-  id    = 'prac1_BA',
+  id    = 'prac2_BA',
   label = "How desirable is it to be **Below Average** in this characteristic? (**bottom 30%**)",
   row="", option = c(
     'Very Undesirable'    = '1',
@@ -578,7 +536,7 @@ sd_next()
 ```{r}
 sd_question(
   type  = 'matrix',
-  id    = 'prac1_EL',
+  id    = 'prac2_EL',
   label = "How desirable is it to be **Extremely Low** in this characteristic? (**bottom 1%**)",
   row="", option = c(
     'Very Undesirable'    = '1',
