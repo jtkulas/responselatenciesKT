@@ -1,17 +1,19 @@
 # ! JUST READ - don't change the content of this file
 # Question structure extracted from survey.html
 prac1_EH:
+  index: 1
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 prac1_EH_:
+  index: 2
   type: mc
   label: []
   options:
@@ -21,17 +23,19 @@ prac1_EH_:
     Desirable: '4'
     Very Desirable: '5'
 prac1_AA:
+  index: 3
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 prac1_AA_:
+  index: 4
   type: mc
   label: []
   options:
@@ -41,17 +45,19 @@ prac1_AA_:
     Desirable: '4'
     Very Desirable: '5'
 prac1_A:
+  index: 5
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 prac1_A_:
+  index: 6
   type: mc
   label: []
   options:
@@ -61,17 +67,19 @@ prac1_A_:
     Desirable: '4'
     Very Desirable: '5'
 prac1_BA:
+  index: 7
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 prac1_BA_:
+  index: 8
   type: mc
   label: []
   options:
@@ -81,17 +89,19 @@ prac1_BA_:
     Desirable: '4'
     Very Desirable: '5'
 prac1_EL:
+  index: 9
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 prac1_EL_:
+  index: 10
   type: mc
   label: []
   options:
@@ -101,17 +111,19 @@ prac1_EL_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_1EH:
+  index: 11
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_1EH_:
+  index: 12
   type: mc
   label: []
   options:
@@ -121,17 +133,19 @@ poslinear_1EH_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_1AA:
+  index: 13
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_1AA_:
+  index: 14
   type: mc
   label: []
   options:
@@ -141,17 +155,19 @@ poslinear_1AA_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_1A:
+  index: 15
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_1A_:
+  index: 16
   type: mc
   label: []
   options:
@@ -161,17 +177,19 @@ poslinear_1A_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_1BA:
+  index: 17
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_1BA_:
+  index: 18
   type: mc
   label: []
   options:
@@ -181,17 +199,19 @@ poslinear_1BA_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_1EL:
+  index: 19
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_1EL_:
+  index: 20
   type: mc
   label: []
   options:
@@ -201,17 +221,19 @@ poslinear_1EL_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_2EH:
+  index: 21
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_2EH_:
+  index: 22
   type: mc
   label: []
   options:
@@ -221,17 +243,19 @@ poslinear_2EH_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_2AA:
+  index: 23
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_2AA_:
+  index: 24
   type: mc
   label: []
   options:
@@ -241,17 +265,19 @@ poslinear_2AA_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_2A:
+  index: 25
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_2A_:
+  index: 26
   type: mc
   label: []
   options:
@@ -261,17 +287,19 @@ poslinear_2A_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_2BA:
+  index: 27
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_2BA_:
+  index: 28
   type: mc
   label: []
   options:
@@ -281,17 +309,19 @@ poslinear_2BA_:
     Desirable: '4'
     Very Desirable: '5'
 poslinear_2EL:
+  index: 29
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 poslinear_2EL_:
+  index: 30
   type: mc
   label: []
   options:
@@ -301,17 +331,19 @@ poslinear_2EL_:
     Desirable: '4'
     Very Desirable: '5'
 witch_1EH:
+  index: 31
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_1EH_:
+  index: 32
   type: mc
   label: []
   options:
@@ -321,17 +353,19 @@ witch_1EH_:
     Desirable: '4'
     Very Desirable: '5'
 witch_1AA:
+  index: 33
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_1AA_:
+  index: 34
   type: mc
   label: []
   options:
@@ -341,17 +375,19 @@ witch_1AA_:
     Desirable: '4'
     Very Desirable: '5'
 witch_1A:
+  index: 35
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_1A_:
+  index: 36
   type: mc
   label: []
   options:
@@ -361,17 +397,19 @@ witch_1A_:
     Desirable: '4'
     Very Desirable: '5'
 witch_1BA:
+  index: 37
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_1BA_:
+  index: 38
   type: mc
   label: []
   options:
@@ -381,17 +419,19 @@ witch_1BA_:
     Desirable: '4'
     Very Desirable: '5'
 witch_1EL:
+  index: 39
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_1EL_:
+  index: 40
   type: mc
   label: []
   options:
@@ -401,17 +441,19 @@ witch_1EL_:
     Desirable: '4'
     Very Desirable: '5'
 witch_2EH:
+  index: 41
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_2EH_:
+  index: 42
   type: mc
   label: []
   options:
@@ -421,17 +463,19 @@ witch_2EH_:
     Desirable: '4'
     Very Desirable: '5'
 witch_2AA:
+  index: 43
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_2AA_:
+  index: 44
   type: mc
   label: []
   options:
@@ -441,17 +485,19 @@ witch_2AA_:
     Desirable: '4'
     Very Desirable: '5'
 witch_2A:
+  index: 45
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_2A_:
+  index: 46
   type: mc
   label: []
   options:
@@ -461,17 +507,19 @@ witch_2A_:
     Desirable: '4'
     Very Desirable: '5'
 witch_2BA:
+  index: 47
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_2BA_:
+  index: 48
   type: mc
   label: []
   options:
@@ -481,17 +529,19 @@ witch_2BA_:
     Desirable: '4'
     Very Desirable: '5'
 witch_2EL:
+  index: 49
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 witch_2EL_:
+  index: 50
   type: mc
   label: []
   options:
@@ -501,17 +551,19 @@ witch_2EL_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_1EH:
+  index: 51
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_1EH_:
+  index: 52
   type: mc
   label: []
   options:
@@ -521,17 +573,19 @@ OPhook_1EH_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_1AA:
+  index: 53
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_1AA_:
+  index: 54
   type: mc
   label: []
   options:
@@ -541,17 +595,19 @@ OPhook_1AA_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_1A:
+  index: 55
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_1A_:
+  index: 56
   type: mc
   label: []
   options:
@@ -561,17 +617,19 @@ OPhook_1A_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_1BA:
+  index: 57
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_1BA_:
+  index: 58
   type: mc
   label: []
   options:
@@ -581,17 +639,19 @@ OPhook_1BA_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_1EL:
+  index: 59
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_1EL_:
+  index: 60
   type: mc
   label: []
   options:
@@ -601,17 +661,19 @@ OPhook_1EL_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_2EH:
+  index: 61
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_2EH_:
+  index: 62
   type: mc
   label: []
   options:
@@ -621,17 +683,19 @@ OPhook_2EH_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_2AA:
+  index: 63
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_2AA_:
+  index: 64
   type: mc
   label: []
   options:
@@ -641,17 +705,19 @@ OPhook_2AA_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_2A:
+  index: 65
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_2A_:
+  index: 66
   type: mc
   label: []
   options:
@@ -661,17 +727,19 @@ OPhook_2A_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_2BA:
+  index: 67
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_2BA_:
+  index: 68
   type: mc
   label: []
   options:
@@ -681,17 +749,19 @@ OPhook_2BA_:
     Desirable: '4'
     Very Desirable: '5'
 OPhook_2EL:
+  index: 69
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 OPhook_2EL_:
+  index: 70
   type: mc
   label: []
   options:
@@ -701,17 +771,19 @@ OPhook_2EL_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_1EH:
+  index: 71
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_1EH_:
+  index: 72
   type: mc
   label: []
   options:
@@ -721,17 +793,19 @@ NegHook_1EH_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_1AA:
+  index: 73
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_1AA_:
+  index: 74
   type: mc
   label: []
   options:
@@ -741,17 +815,19 @@ NegHook_1AA_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_1A:
+  index: 75
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_1A_:
+  index: 76
   type: mc
   label: []
   options:
@@ -761,17 +837,19 @@ NegHook_1A_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_1BA:
+  index: 77
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_1BA_:
+  index: 78
   type: mc
   label: []
   options:
@@ -781,17 +859,19 @@ NegHook_1BA_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_1EL:
+  index: 79
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_1EL_:
+  index: 80
   type: mc
   label: []
   options:
@@ -801,17 +881,19 @@ NegHook_1EL_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_2EH:
+  index: 81
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_2EH_:
+  index: 82
   type: mc
   label: []
   options:
@@ -821,17 +903,19 @@ NegHook_2EH_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_2AA:
+  index: 83
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_2AA_:
+  index: 84
   type: mc
   label: []
   options:
@@ -841,17 +925,19 @@ NegHook_2AA_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_2A:
+  index: 85
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_2A_:
+  index: 86
   type: mc
   label: []
   options:
@@ -861,17 +947,19 @@ NegHook_2A_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_2BA:
+  index: 87
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_2BA_:
+  index: 88
   type: mc
   label: []
   options:
@@ -881,17 +969,19 @@ NegHook_2BA_:
     Desirable: '4'
     Very Desirable: '5'
 NegHook_2EL:
+  index: 89
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegHook_2EL_:
+  index: 90
   type: mc
   label: []
   options:
@@ -901,17 +991,19 @@ NegHook_2EL_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_1EH:
+  index: 91
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_1EH_:
+  index: 92
   type: mc
   label: []
   options:
@@ -921,17 +1013,19 @@ Flat_1EH_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_1AA:
+  index: 93
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_1AA_:
+  index: 94
   type: mc
   label: []
   options:
@@ -941,17 +1035,19 @@ Flat_1AA_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_1A:
+  index: 95
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_1A_:
+  index: 96
   type: mc
   label: []
   options:
@@ -961,17 +1057,19 @@ Flat_1A_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_1BA:
+  index: 97
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_1BA_:
+  index: 98
   type: mc
   label: []
   options:
@@ -981,17 +1079,19 @@ Flat_1BA_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_1EL:
+  index: 99
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_1EL_:
+  index: 100
   type: mc
   label: []
   options:
@@ -1001,17 +1101,19 @@ Flat_1EL_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_2EH:
+  index: 101
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_2EH_:
+  index: 102
   type: mc
   label: []
   options:
@@ -1021,17 +1123,19 @@ Flat_2EH_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_2AA:
+  index: 103
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_2AA_:
+  index: 104
   type: mc
   label: []
   options:
@@ -1041,17 +1145,19 @@ Flat_2AA_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_2A:
+  index: 105
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_2A_:
+  index: 106
   type: mc
   label: []
   options:
@@ -1061,17 +1167,19 @@ Flat_2A_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_2BA:
+  index: 107
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_2BA_:
+  index: 108
   type: mc
   label: []
   options:
@@ -1081,17 +1189,19 @@ Flat_2BA_:
     Desirable: '4'
     Very Desirable: '5'
 Flat_2EL:
+  index: 109
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 Flat_2EL_:
+  index: 110
   type: mc
   label: []
   options:
@@ -1101,17 +1211,19 @@ Flat_2EL_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_1EH:
+  index: 111
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_1EH_:
+  index: 112
   type: mc
   label: []
   options:
@@ -1121,17 +1233,19 @@ NegLinear_1EH_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_1AA:
+  index: 113
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_1AA_:
+  index: 114
   type: mc
   label: []
   options:
@@ -1141,17 +1255,19 @@ NegLinear_1AA_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_1A:
+  index: 115
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_1A_:
+  index: 116
   type: mc
   label: []
   options:
@@ -1161,17 +1277,19 @@ NegLinear_1A_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_1BA:
+  index: 117
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_1BA_:
+  index: 118
   type: mc
   label: []
   options:
@@ -1181,17 +1299,19 @@ NegLinear_1BA_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_1EL:
+  index: 119
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_1EL_:
+  index: 120
   type: mc
   label: []
   options:
@@ -1201,17 +1321,19 @@ NegLinear_1EL_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_2EH:
+  index: 121
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_2EH_:
+  index: 122
   type: mc
   label: []
   options:
@@ -1221,17 +1343,19 @@ NegLinear_2EH_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_2AA:
+  index: 123
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_2AA_:
+  index: 124
   type: mc
   label: []
   options:
@@ -1241,17 +1365,19 @@ NegLinear_2AA_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_2A:
+  index: 125
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_2A_:
+  index: 126
   type: mc
   label: []
   options:
@@ -1261,17 +1387,19 @@ NegLinear_2A_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_2BA:
+  index: 127
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_2BA_:
+  index: 128
   type: mc
   label: []
   options:
@@ -1281,17 +1409,19 @@ NegLinear_2BA_:
     Desirable: '4'
     Very Desirable: '5'
 NegLinear_2EL:
+  index: 129
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 NegLinear_2EL_:
+  index: 130
   type: mc
   label: []
   options:
@@ -1301,17 +1431,19 @@ NegLinear_2EL_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_1EH:
+  index: 131
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_1EH_:
+  index: 132
   type: mc
   label: []
   options:
@@ -1321,17 +1453,19 @@ PosHook_1EH_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_1AA:
+  index: 133
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_1AA_:
+  index: 134
   type: mc
   label: []
   options:
@@ -1341,17 +1475,19 @@ PosHook_1AA_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_1A:
+  index: 135
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_1A_:
+  index: 136
   type: mc
   label: []
   options:
@@ -1361,17 +1497,19 @@ PosHook_1A_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_1BA:
+  index: 137
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_1BA_:
+  index: 138
   type: mc
   label: []
   options:
@@ -1381,17 +1519,19 @@ PosHook_1BA_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_1EL:
+  index: 139
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_1EL_:
+  index: 140
   type: mc
   label: []
   options:
@@ -1401,17 +1541,19 @@ PosHook_1EL_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_2EH:
+  index: 141
   type: matrix
   label: How desirable is it to be Extremely High in this characteristic? (top 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_2EH_:
+  index: 142
   type: mc
   label: []
   options:
@@ -1421,17 +1563,19 @@ PosHook_2EH_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_2AA:
+  index: 143
   type: matrix
   label: How desirable is it to be Above Average in this characteristic? (top 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_2AA_:
+  index: 144
   type: mc
   label: []
   options:
@@ -1441,17 +1585,19 @@ PosHook_2AA_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_2A:
+  index: 145
   type: matrix
   label: How desirable is it to be Average in this characteristic?
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_2A_:
+  index: 146
   type: mc
   label: []
   options:
@@ -1461,17 +1607,19 @@ PosHook_2A_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_2BA:
+  index: 147
   type: matrix
   label: How desirable is it to be Below Average in this characteristic? (bottom 30%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_2BA_:
+  index: 148
   type: mc
   label: []
   options:
@@ -1481,17 +1629,19 @@ PosHook_2BA_:
     Desirable: '4'
     Very Desirable: '5'
 PosHook_2EL:
+  index: 149
   type: matrix
   label: How desirable is it to be Extremely Low in this characteristic? (bottom 1%)
+  row:
+    '': ''
   options:
     Very Undesirable: '1'
     Undesirable: '2'
     Neutral: '3'
     Desirable: '4'
     Very Desirable: '5'
-  row:
-    NA: ''
 PosHook_2EL_:
+  index: 150
   type: mc
   label: []
   options:
@@ -1501,8 +1651,11 @@ PosHook_2EL_:
     Desirable: '4'
     Very Desirable: '5'
 edprac1_EH:
+  index: 151
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1513,9 +1666,8 @@ edprac1_EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edprac1_EH_:
+  index: 152
   type: mc
   label: []
   options:
@@ -1529,8 +1681,11 @@ edprac1_EH_:
     Strongly: '8'
     Extremely: '9'
 edprac2_EH:
+  index: 153
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1541,9 +1696,8 @@ edprac2_EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edprac2_EH_:
+  index: 154
   type: mc
   label: []
   options:
@@ -1557,8 +1711,11 @@ edprac2_EH_:
     Strongly: '8'
     Extremely: '9'
 edposlinear_1EH:
+  index: 155
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1569,9 +1726,8 @@ edposlinear_1EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edposlinear_1EH_:
+  index: 156
   type: mc
   label: []
   options:
@@ -1585,8 +1741,11 @@ edposlinear_1EH_:
     Strongly: '8'
     Extremely: '9'
 edposlinear_2EH:
+  index: 157
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1597,9 +1756,8 @@ edposlinear_2EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edposlinear_2EH_:
+  index: 158
   type: mc
   label: []
   options:
@@ -1613,8 +1771,11 @@ edposlinear_2EH_:
     Strongly: '8'
     Extremely: '9'
 edwitch_1EH:
+  index: 159
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1625,9 +1786,8 @@ edwitch_1EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edwitch_1EH_:
+  index: 160
   type: mc
   label: []
   options:
@@ -1641,8 +1801,11 @@ edwitch_1EH_:
     Strongly: '8'
     Extremely: '9'
 edwitch_2EH:
+  index: 161
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1653,9 +1816,8 @@ edwitch_2EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edwitch_2EH_:
+  index: 162
   type: mc
   label: []
   options:
@@ -1669,8 +1831,11 @@ edwitch_2EH_:
     Strongly: '8'
     Extremely: '9'
 edOPhook_1EH:
+  index: 163
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1681,9 +1846,8 @@ edOPhook_1EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edOPhook_1EH_:
+  index: 164
   type: mc
   label: []
   options:
@@ -1697,8 +1861,11 @@ edOPhook_1EH_:
     Strongly: '8'
     Extremely: '9'
 edOPhook_2EH:
+  index: 165
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1709,9 +1876,8 @@ edOPhook_2EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edOPhook_2EH_:
+  index: 166
   type: mc
   label: []
   options:
@@ -1725,8 +1891,11 @@ edOPhook_2EH_:
     Strongly: '8'
     Extremely: '9'
 edNegHook_1EH:
+  index: 167
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1737,9 +1906,8 @@ edNegHook_1EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edNegHook_1EH_:
+  index: 168
   type: mc
   label: []
   options:
@@ -1753,8 +1921,11 @@ edNegHook_1EH_:
     Strongly: '8'
     Extremely: '9'
 edNegHook_2EH:
+  index: 169
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1765,9 +1936,8 @@ edNegHook_2EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edNegHook_2EH_:
+  index: 170
   type: mc
   label: []
   options:
@@ -1781,8 +1951,11 @@ edNegHook_2EH_:
     Strongly: '8'
     Extremely: '9'
 edFlat_1EH:
+  index: 171
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1793,9 +1966,8 @@ edFlat_1EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edFlat_1EH_:
+  index: 172
   type: mc
   label: []
   options:
@@ -1809,8 +1981,11 @@ edFlat_1EH_:
     Strongly: '8'
     Extremely: '9'
 edFlat_2EH:
+  index: 173
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1821,9 +1996,8 @@ edFlat_2EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edFlat_2EH_:
+  index: 174
   type: mc
   label: []
   options:
@@ -1837,8 +2011,11 @@ edFlat_2EH_:
     Strongly: '8'
     Extremely: '9'
 edNegLinear_1EH:
+  index: 175
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1849,9 +2026,8 @@ edNegLinear_1EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edNegLinear_1EH_:
+  index: 176
   type: mc
   label: []
   options:
@@ -1865,8 +2041,11 @@ edNegLinear_1EH_:
     Strongly: '8'
     Extremely: '9'
 edNegLinear_2EH:
+  index: 177
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1877,9 +2056,8 @@ edNegLinear_2EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edNegLinear_2EH_:
+  index: 178
   type: mc
   label: []
   options:
@@ -1893,8 +2071,11 @@ edNegLinear_2EH_:
     Strongly: '8'
     Extremely: '9'
 edPosHook_1EH:
+  index: 179
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1905,9 +2086,8 @@ edPosHook_1EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edPosHook_1EH_:
+  index: 180
   type: mc
   label: []
   options:
@@ -1921,8 +2101,11 @@ edPosHook_1EH_:
     Strongly: '8'
     Extremely: '9'
 edPosHook_2EH:
+  index: 181
   type: matrix
   label: []
+  row:
+    '': ''
   options:
     Extrеmelγ: '1'
     Stronglγ: '2'
@@ -1933,9 +2116,8 @@ edPosHook_2EH:
     Moderately: '7'
     Strongly: '8'
     Extremely: '9'
-  row:
-    NA: ''
 edPosHook_2EH_:
+  index: 182
   type: mc
   label: []
   options:

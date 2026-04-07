@@ -2,6 +2,8 @@
 echo: false
 warning: false
 theme: [night, weekly.scss]
+# Survey settings
+use-cookies: false
 ---
 
 <script>
